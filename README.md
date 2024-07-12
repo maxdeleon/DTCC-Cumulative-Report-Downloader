@@ -57,6 +57,14 @@ If you do not provide the `--download_directory` argument, it will default to `.
 - The script will create the `download_directory` if it does not exist.
 - The script will skip the data loading block if the `export_directory` is not provided.
 
+## Legal Disclaimer
+
+This tool is intended for educational and research purposes only. Users must ensure that their use of this tool complies with all applicable laws and the terms of service of the websites they are scraping. The author is not responsible for any misuse of this tool.
+
+## Ethical Use
+
+Please use this tool responsibly and respect the terms and conditions of the data sources. Implement proper rate limiting to avoid overloading servers.
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the LICENSE file for more details.
