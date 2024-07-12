@@ -1,0 +1,10 @@
+name: sdr_rates_downloader
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - requests
+  - matplotlib
+  - tqdm
